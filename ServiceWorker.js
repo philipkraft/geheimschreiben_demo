@@ -1,9 +1,9 @@
 const cacheName = "amplify design GmbH-Medientisch_Urkunden_Unity-1.0";
 const contentToCache = [
-    "Build/BriefeWebGL.loader.js",
-    "Build/BriefeWebGL.framework.js",
-    "Build/BriefeWebGL.data",
-    "Build/BriefeWebGL.wasm",
+    "Build/geheimschreiben_demo.loader.js",
+    "Build/geheimschreiben_demo.framework.js",
+    "Build/geheimschreiben_demo.data",
+    "Build/geheimschreiben_demo.wasm",
     "TemplateData/style.css"
 
 ];
